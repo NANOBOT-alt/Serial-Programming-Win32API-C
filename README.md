@@ -12,7 +12,7 @@ This repo contains code for transmitting and receiving characters (Strings) seri
 
 ## Online Tutorial
 
- - [Windows Serial Port Programming Tutorial using Win32 API's](https://www.xanthium.in/Serial-Port-Programming-using-Win32-API) 
+ - [Windows Serial Port Programming Tutorial using Win32 API's and C Language](https://www.xanthium.in/Serial-Port-Programming-using-Win32-API) 
 
 ## Details
 
