@@ -1,4 +1,4 @@
-#Serial Port Programming using Win32 API and C language
+# Serial Port Programming using Win32 API and C language
 
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-win32-api/serial-programming-win32-api-tutorial.jpeg">
 
@@ -6,7 +6,7 @@ This repo contains code for transmitting and receiving characters (Strings) seri
 
 <img src="http://xanthium.in/sites/default/files/site-images/serial-prog-win32-api/Serial-port-write-windows.jpeg" alt ="Screenshot of the serial port programming code running on windows 7">
 --------------------------------------------------------------------------------------------------------------------------------------
-##Details
+## Details
 
 **Full code explanation along with screenshots can be <a href = http://xanthium.in/Serial-Port-Programming-using-Win32-API> found here on the xanthium website </a>**
 
@@ -27,7 +27,7 @@ More info about the  <a href = "http://xanthium.in/USB-to-Serial-RS232-RS485-Con
 - The Hardware used is MSP430G2553 on Launch pad development board.
  
 --------------------------------------------------------------------------------------------------------------------------------------
-##Repo Contents 
+## Repo Contents 
 
 - **USB2SERIAL_Read**
   - Contains Code for **Reading data** from the serial port of Windows Machine .
